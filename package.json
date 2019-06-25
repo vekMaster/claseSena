@@ -1,0 +1,17 @@
+{
+  "name": "clasesena",
+  "version": "1.0.0",
+  "description": "a study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Js"
+  ],
+  "author": "Kevin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
